@@ -7,6 +7,7 @@ The ChatBot component is a simple chat interface that allows users to interact w
 - React: A JavaScript library for building user interfaces.
 - Axios: A popular HTTP client library for making API requests.
 - SpeechRecognition API: Used for voice recognition in supported browsers.
+- Mysql for backend
 
 ## Getting Started
 
